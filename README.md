@@ -50,7 +50,7 @@ This chatbot processes a JSONL dataset containing product descriptions, splits t
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/amayasmh/RAG_OpenAI.git
+git clone https://github.com/aghiles-saghir/RAG_OpenAI.git
 cd RAG_OpenAI
 ```
 
